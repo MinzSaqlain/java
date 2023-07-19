@@ -1,2 +1,0 @@
-# java
-basics of java

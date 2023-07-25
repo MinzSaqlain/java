@@ -1,6 +1,8 @@
 package java_elements.com.elements;
 
 public class Blocks {
+
+	// static block and instance block
 public static void main(String[] args) {
 	new Blocks();
 	

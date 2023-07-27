@@ -6,7 +6,7 @@ public class ElectricityBill {
 	static int units;
 
 	public static void main(String[] args) {
-double billToPay = 0;
+       double billToPay = 0;
 		
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Enter ur units: ");
